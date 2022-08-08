@@ -1,0 +1,23 @@
+{
+  "name": "docs-possible-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "npx docsify-cli serve docs",
+    "build": "npx docsify-cli g docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/possible-world/docs-possible-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/possible-world/docs-possible-world/issues"
+  },
+  "homepage": "https://github.com/possible-world/docs-possible-world#readme"
+}
